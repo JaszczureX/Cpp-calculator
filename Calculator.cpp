@@ -48,6 +48,7 @@ void interface() {
     cout << "2. Quadratic trinomial\n";
     cout << "3. Fibonacci sequence\n";
     cout << "4. Median and arithmetic mean\n";
+    cout << "5. \n";
     cout << "Choose actions: ";
 }
 
